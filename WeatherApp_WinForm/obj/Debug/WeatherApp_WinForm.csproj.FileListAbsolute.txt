@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\bin\Debug\WeatherApp_WinForm.exe.config
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\bin\Debug\WeatherApp_WinForm.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\bin\Debug\WeatherApp_WinForm.pdb
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.Form1.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.Properties.Resources.resources
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.csproj.CopyComplete
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.exe
+C:\Users\Lenovo\OneDrive\Робочий стіл\WeatherApp_WinForm\WeatherApp_WinForm\obj\Debug\WeatherApp_WinForm.pdb
